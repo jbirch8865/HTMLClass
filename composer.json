@@ -1,6 +1,6 @@
 {
-    "name": "jbirc/http-class",
-    "description": "PHP Class for building HTTP front end designs with javascript",
+    "name": "jbirc/htmlclass",
+    "description": "PHP Class for building HTML front end designs with javascript",
     "authors": [
         {
             "name": "Joel Birch",
